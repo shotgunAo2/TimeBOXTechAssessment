@@ -1,5 +1,5 @@
 
-package apiObjects.timeandbox;
+package apiObjects.timeAndBox;
 
 import java.util.List;
 
